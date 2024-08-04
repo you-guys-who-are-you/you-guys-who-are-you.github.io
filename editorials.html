@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Type 2 Blogs"
+permalink: /editorials/
+---
+
+<h1>Problem Solutions</h1>
+
+<ul>
+  {% assign type2_posts = site.posts | where: "tags", "editorial" %}
+  {% for post in type2_posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
