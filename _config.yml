@@ -22,7 +22,7 @@ title: you guys, who are you
 author: 
 markdown: CommonMarkGhPages
 description: >- # this means to ignore newlines until "baseurl:"
-  https://youtube.com/watch?v=5_001z7TcgI
+  trees are cute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://you-guys-who-are-you.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
